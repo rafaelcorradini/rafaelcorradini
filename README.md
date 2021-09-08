@@ -4,7 +4,7 @@
 
 I'm a web developer.
 
-Currently working with great people at Luizalabs.
+Currently working with great people at Blipay.
 
 Some links to know me better:
 ```
