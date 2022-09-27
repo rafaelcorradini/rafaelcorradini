@@ -2,7 +2,7 @@
 ```diff
 @@ Hi! I'm Rafael. :) @@
 
-I'm a web developer.
+I am a developer.
 
 Currently working with great people at Blipay.
 
